@@ -34,7 +34,7 @@ extern "C" {
 #define PDFLIB_MINORVERSION	0       	  /* minor version number */
 #define PDFLIB_REVISION		0       	  /* revision number */
 #define PDFLIB_SHORT_VERSIONSTRING "10"           /* short version number */
-#define PDFLIB_LONG_VERSIONSTRING  "10.0.0p1" /* full version number*/
+#define PDFLIB_LONG_VERSIONSTRING  "10.0.0p4" /* full version number*/
 
 /*
  * ----------------------------------------------------------------------
